@@ -41,6 +41,7 @@ Cuando colocamos el selector de un solo elemento, la función QueryJS nos da las
     QueryJS (selector) .siblings ():
     Devuelve todos los hermanos del elemento.
     
+    
   Funciones del elemento:
   
     QueryJS (selector) .elemento [0]:
